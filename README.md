@@ -1,5 +1,5 @@
 # Projeto Malharia São José
-Projeto da aula de Projetos(PSOF2) do SENAI
+Projeto para nosso TCC do curso de Desenvolvimento de Sistemas no SENAI - Nosso porjeto tem como objetivo um site para organizar/automatizar pedidos e entrgas da Malharia São José
 
 ## Tópicos:
 - **Membros**
